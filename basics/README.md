@@ -1,1 +1,1 @@
-read this f manual
+read this readme
