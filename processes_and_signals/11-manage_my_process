@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script manages the manage_my_process script with options to start, stop, or restart.
 
 case "$1" in
@@ -24,3 +24,4 @@ case "$1" in
     echo "Usage: $0 {start|stop|restart}"
     ;;
 esac
+
